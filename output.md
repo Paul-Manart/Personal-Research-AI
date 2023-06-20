@@ -1,0 +1,1 @@
+Hello, this is Bing. The weather today for the Netherlands is **partly sunny** with a high of **86 degrees fahrenheit** and a low of **62 degrees fahrenheit**[^1^]. There is a **61%** chance of precipitation[^1^]. The sunrise time was **5:17 AM** and the sunset time will be **10:06 PM**[^1^]. The current temperature in Amsterdam is **75 degrees fahrenheit**[^3^].
